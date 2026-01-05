@@ -13,6 +13,5 @@
   "frameworks": [
     "React", "Node.js", "Next.js"
   ],
-  "current_project": "Rugby Manager"
 }
 ```
